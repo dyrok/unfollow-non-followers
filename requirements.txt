@@ -1,0 +1,2 @@
+instagrapi>=1.16.22
+Pillow>=9.5.0
