@@ -66,6 +66,8 @@ Day | Max Unfollows | Notes
 - Follow anyone
 - Change your bio
 - Basically exist on Instagram
+Instead:
+- browse casually
 
 ## 🖥️ Usage Examples
 
