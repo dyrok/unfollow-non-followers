@@ -83,7 +83,7 @@ Daily limit: ≤ 100 actions
 - 📴 **Avoid simultaneous** device logins during operation
 - 📈 **Monitor account status** regularly
 
-##⚠️⚠️⚠️ Usage Guide (Verry Important) ⚠️⚠️⚠️
+## ⚠️⚠️⚠️ Usage Guide (Verry Important) ⚠️⚠️⚠️
 
 During this Period DO NOT Like, Comment, Follow,  Change your bio or anything, every action you do counts as an activity. I am not responsible if you fuck your account up. If you do just remember that you were an absolute peice of shit who didnt wanna read documentation. (instagram may change these but these are just the best practice.)
    - On Day 1 Only unfollow **25 People**
