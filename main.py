@@ -6,6 +6,7 @@ import logging
 import os
 import sys
 
+print("Welcome to the Unfollower Bot")
 # Configure logging to both console and file
 def setup_logger():
     logger = logging.getLogger('insta_unfollow')
