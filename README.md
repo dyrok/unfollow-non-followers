@@ -1,4 +1,4 @@
-# 🤖 Instagram Unfollow Bot (Safest F*cking Bot on the Internet) 🔄
+# 🤖 Instagram Unfollow Bot (Safest F*cking Bot on the Internet) 🔄 (Does not work :( )
 
 The most paranoid, safety-obsessed Instagram unfollow bot that unfollows people who dont follow you back on instagram, that won't get your ass banned. Read every damn word below before using this.
 
